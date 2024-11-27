@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Agenda Encantada</string>
+    <string name="title_activity_main">Agenda Encantada</string>
+    <string name="package_name">io.ionic.student.schedule</string>
+    <string name="custom_url_scheme">io.ionic.student.schedule</string>
+</resources>
